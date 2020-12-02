@@ -1,0 +1,106 @@
+.addfruiter{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.name{
+    display: block;
+    width:400px;
+    text-align: center;
+    line-height: 30px;
+}
+.name input{
+    width:300px;
+    height:35px;
+    float:right;
+}
+.id{
+    display: block;
+    width:400px;
+    text-align: center;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.id input{
+    width:300px;
+    height:35px;
+    float:right;
+}
+.tel{
+    display: block;
+    width:400px;
+    text-align: center;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.tel input{
+    width:300px;
+    height:35px;
+    float:right;
+}
+.e-mail{
+    display: block;
+    width:400px;
+    text-align: center;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.e-mail input{
+    width:300px;
+    height:35px;
+    float:right;
+}
+.city{
+    display: block;
+    width:400px;
+    text-align: center;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.city input{
+    width:300px;
+    height:35px;
+    float:right;
+}
+.time{
+    display: block;
+    width:400px;
+    text-align: center;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.time input{
+    width:300px;
+    height:35px;
+    float:right;
+}
+.person{
+    display: block;
+    width:400px;
+    text-align: center;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.person input{
+    width:300px;
+    height:35px;
+    float:right;
+}
+.save{
+    border:none;
+    background-color: rgb(57, 140, 250);
+    margin-top: 50px;
+    margin-left:100px;
+    width:60px;
+    height:30px;
+    border-radius: 5px;
+
+}
+.cancel{
+    border:1px solid silver;
+    background-color: rgb(253, 253, 253);
+    margin-top: 50px;
+    margin-left:50px;
+    width:60px;
+    height:30px;
+    border-radius: 5px;
+}
